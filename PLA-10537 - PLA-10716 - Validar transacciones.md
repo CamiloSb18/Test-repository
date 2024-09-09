@@ -1,10 +1,9 @@
-# [PLA-10537 - PLA-10716 - Validar transición de estado - QA](https://app.tango.us/app/workflow/25f705d8-ab74-4683-b8b7-9ed93838007e?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+# [PLA-10537 - PLA-10716 - Validar transición de estado - QA]
 
 [https://kushki.atlassian.net/plugins/servlet/ac/com.infostretch.QmetryTestManager/qtm4j-test-management?project.key=PLA&project.id=10807#!/TestCaseDetail/kD2Gu6RltD2zjZ/1?projectId=10807](https://kushki.atlassian.net/plugins/servlet/ac/com.infostretch.QmetryTestManager/qtm4j-test-management?project.key=PLA&project.id=10807#!/TestCaseDetail/kD2Gu6RltD2zjZ/1?projectId=10807)
 
 **Creation Date:** Sep 09, 2024  
-**Created By:** Camilo Sabogal  
-[View most recent version on Tango.us](https://app.tango.us/app/workflow/25f705d8-ab74-4683-b8b7-9ed93838007e?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+**Created By:** Camilo Sabogal
 
 ---
 
@@ -67,7 +66,3 @@ Tomando en cuenta que no se deben permitir transiciones a INICIALIZADO desde est
 ![Step 14 screenshot](https://images.tango.us/workflows/25f705d8-ab74-4683-b8b7-9ed93838007e/steps/5bb38fff-d40b-40fd-bf37-493797407667/7e96aa48-d850-44ec-a131-bba9ab3b5c63.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=346&mark-y=121&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz04NTImaD02NjkmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
 
 <br/>
-
----
-
-Created with [Tango.us](https://tango.us?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
