@@ -3,7 +3,7 @@
 [https://kushki.atlassian.net/plugins/servlet/ac/com.infostretch.QmetryTestManager/qtm4j-test-management?project.key=PLA&project.id=10807#!/TestCaseDetail/kD2Gu6RltD2zjZ/1?projectId=10807](https://kushki.atlassian.net/plugins/servlet/ac/com.infostretch.QmetryTestManager/qtm4j-test-management?project.key=PLA&project.id=10807#!/TestCaseDetail/kD2Gu6RltD2zjZ/1?projectId=10807)
 
 **Creation Date:** Sep 09, 2024  
-**Created By:** Camilo Sabogal
+**Created By:** Camilo Sabogal ACTUALIZARRRRRR
 
 ---
 
